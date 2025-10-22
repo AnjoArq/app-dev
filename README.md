@@ -80,7 +80,7 @@ Cartoons like **Adventure Time** show that *animation can teach life lessons to 
 
 ----------
 
-I need to highlight these ==very important words==:  
+I need to highlight these ==very important words==.  
 **Adventure Time changed the way people saw cartoons.**
 
 ----------
